@@ -1,0 +1,96 @@
+.container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Menempatkan di tengah secara horizontal */
+  align-items: center; /* Menempatkan di tengah secara vertikal */
+  height: 100vh; /* Sesuaikan tinggi dengan viewport */
+  background-color: #f8f9fa; /* Warna latar belakang opsional */
+}
+
+.info-profile {
+  border: 1px solid #ccc;
+  /* width: 300px; */
+  padding: 10px;
+}
+
+.chat-container {
+  /* width: 300px; */
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.chat-box {
+  height: 400px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+
+  /* Menyembunyikan scrollbar */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer and Edge */
+}
+
+.chat-box::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  width: fit-content;
+  max-width: 60%;
+}
+
+.message.left {
+  background-color: #e0e0e0;
+  align-self: flex-start;
+}
+
+.message.right {
+  background-color: #f0f0f0;
+  align-self: flex-end;
+}
+
+.chat-input {
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.chat-button {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+}
+
+.chat-button:hover {
+  background-color: #0056b3;
+}
+
+.connected {
+  margin-left: 10px;
+  height: 10px !important;
+  color: green;
+  border-radius: 100%;
+  background-color: green;
+}
+
+.disconnected {
+  margin-left: 10px;
+  height: 10px !important;
+  color: rgb(247, 0, 33);
+  border-radius: 100%;
+  background-color: rgb(255, 0, 13);
+}
+
