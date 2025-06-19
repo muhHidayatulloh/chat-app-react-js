@@ -2176,3 +2176,625 @@
 {"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-01-02T09:26:19.139Z"}
 {"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-02T09:26:25.912Z"}
 {"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-02T09:28:06.101Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-01-02T09:42:37.266Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-01-02T09:42:37.313Z"}
+{"level":"info","message":"User connected: _P6YLos_-6PSMRp1AAAB","timestamp":"2025-01-02T09:42:37.546Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-01-02T09:42:39.948Z"}
+{"level":"info","message":"User disconnected: _P6YLos_-6PSMRp1AAAB","timestamp":"2025-01-02T09:44:44.506Z"}
+{"level":"info","message":"User connected: g9X51TtCvOGPrBE6AAAD","timestamp":"2025-01-02T09:44:45.055Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-01-14T07:43:57.558Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-01-14T07:43:57.843Z"}
+{"level":"info","message":"User connected: cHDUupfnPG7ZY270AAAB","timestamp":"2025-01-14T07:44:18.970Z"}
+{"level":"info","message":"User disconnected: cHDUupfnPG7ZY270AAAB","timestamp":"2025-01-14T07:54:04.642Z"}
+{"level":"info","message":"User connected: -4CaAtRA8qLM83GrAAAD","timestamp":"2025-01-14T07:54:05.171Z"}
+{"level":"info","message":"User disconnected: -4CaAtRA8qLM83GrAAAD","timestamp":"2025-01-14T07:56:11.247Z"}
+{"level":"info","message":"User connected: 7KC87U-V84NYDk98AAAF","timestamp":"2025-01-14T07:56:11.784Z"}
+{"level":"info","message":"User disconnected: 7KC87U-V84NYDk98AAAF","timestamp":"2025-01-14T07:59:43.938Z"}
+{"level":"info","message":"User connected: Pwf1KnDuDuPNxYXmAAAH","timestamp":"2025-01-14T07:59:44.391Z"}
+{"level":"info","message":"User disconnected: Pwf1KnDuDuPNxYXmAAAH","timestamp":"2025-01-14T08:00:07.727Z"}
+{"level":"info","message":"User connected: yi8LYLK1mA9hfIocAAAJ","timestamp":"2025-01-14T08:00:08.144Z"}
+{"level":"info","message":"User disconnected: yi8LYLK1mA9hfIocAAAJ","timestamp":"2025-01-14T08:00:19.443Z"}
+{"level":"info","message":"User connected: HQt7Dj1EcO3XAeDUAAAL","timestamp":"2025-01-14T08:00:19.574Z"}
+{"level":"info","message":"User disconnected: HQt7Dj1EcO3XAeDUAAAL","timestamp":"2025-01-14T08:05:37.269Z"}
+{"level":"info","message":"User connected: EsXNZ_6-lnmy1xhsAAAN","timestamp":"2025-01-14T08:05:37.713Z"}
+{"level":"info","message":"User disconnected: EsXNZ_6-lnmy1xhsAAAN","timestamp":"2025-01-14T08:13:58.424Z"}
+{"level":"info","message":"User connected: zIPzIxRVRLsai8EPAAAP","timestamp":"2025-01-14T08:13:58.883Z"}
+{"level":"info","message":"User disconnected: zIPzIxRVRLsai8EPAAAP","timestamp":"2025-01-14T08:14:39.831Z"}
+{"level":"info","message":"User connected: JQe9-a1ZQZDE33W-AAAR","timestamp":"2025-01-14T08:14:40.247Z"}
+{"level":"info","message":"User disconnected: JQe9-a1ZQZDE33W-AAAR","timestamp":"2025-01-14T08:15:28.617Z"}
+{"level":"info","message":"User connected: UzE-zw0Akj8Is6CQAAAT","timestamp":"2025-01-14T08:15:29.046Z"}
+{"level":"info","message":"User disconnected: UzE-zw0Akj8Is6CQAAAT","timestamp":"2025-01-14T08:16:59.233Z"}
+{"level":"info","message":"User connected: tVFlVJ0SS9ozYmp1AAAV","timestamp":"2025-01-14T08:16:59.649Z"}
+{"level":"info","message":"User disconnected: tVFlVJ0SS9ozYmp1AAAV","timestamp":"2025-01-14T08:31:40.555Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-01-14T08:33:21.541Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-01-15T09:25:36.269Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-01-15T09:25:36.528Z"}
+{"level":"info","message":"User connected: r9HIzzPzBpoKfyYtAAAB","timestamp":"2025-01-15T09:25:41.146Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-01-15T09:47:35.066Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:47:36.737Z"}
+{"level":"info","message":"User connected: ox461wQGqTujqaydAAAD","timestamp":"2025-01-15T09:49:51.326Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:49:51.393Z"}
+{"level":"info","message":"User connected: iznv3GbUb7uxXkqCAAAF","timestamp":"2025-01-15T09:49:51.757Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:49:51.796Z"}
+{"level":"info","message":"User connected: t2MpRIisE1UjwTIPAAAH","timestamp":"2025-01-15T09:50:09.832Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:50:09.883Z"}
+{"level":"info","message":"User connected: kx9vEN2Cj4pZk43eAAAJ","timestamp":"2025-01-15T09:50:15.139Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:50:15.186Z"}
+{"level":"info","message":"User connected: B3QpIqoK9ECJZggAAAAL","timestamp":"2025-01-15T09:50:21.168Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:50:21.217Z"}
+{"level":"info","message":"User connected: UCfpmERqsmlm_QaVAAAN","timestamp":"2025-01-15T09:50:41.303Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:50:41.377Z"}
+{"level":"info","message":"User disconnected: ox461wQGqTujqaydAAAD","timestamp":"2025-01-15T09:51:37.301Z"}
+{"level":"info","message":"User disconnected: kx9vEN2Cj4pZk43eAAAJ","timestamp":"2025-01-15T09:51:37.303Z"}
+{"level":"info","message":"User disconnected: iznv3GbUb7uxXkqCAAAF","timestamp":"2025-01-15T09:51:37.304Z"}
+{"level":"info","message":"User disconnected: r9HIzzPzBpoKfyYtAAAB","timestamp":"2025-01-15T09:51:37.305Z"}
+{"level":"info","message":"User disconnected: t2MpRIisE1UjwTIPAAAH","timestamp":"2025-01-15T09:51:37.306Z"}
+{"level":"info","message":"User disconnected: UCfpmERqsmlm_QaVAAAN","timestamp":"2025-01-15T09:51:37.306Z"}
+{"level":"info","message":"User disconnected: B3QpIqoK9ECJZggAAAAL","timestamp":"2025-01-15T09:51:37.306Z"}
+{"level":"info","message":"User connected: ccAEg8Vby6S_KoZ0AAAP","timestamp":"2025-01-15T09:51:37.679Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:51:37.805Z"}
+{"level":"info","message":"User connected: RR_dPYIDvdb4hDB2AAAR","timestamp":"2025-01-15T09:52:23.026Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:52:23.078Z"}
+{"level":"info","message":"User connected: HlAxxaSD8MwlkKtRAAAT","timestamp":"2025-01-15T09:52:29.069Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:52:29.134Z"}
+{"level":"info","message":"User connected: 2ecoGIt76aBv4LOWAAAV","timestamp":"2025-01-15T09:52:31.392Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:52:31.436Z"}
+{"level":"info","message":"User connected: Ep77U054sNvNvwvtAAAX","timestamp":"2025-01-15T09:52:58.492Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:52:58.561Z"}
+{"level":"info","message":"User connected: WnJx5VoGiwBbJixmAAAZ","timestamp":"2025-01-15T09:53:02.603Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:02.645Z"}
+{"level":"info","message":"User connected: rcpCN3iIVzh5mGEIAAAb","timestamp":"2025-01-15T09:53:04.218Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:04.264Z"}
+{"level":"info","message":"User connected: TEr0g6YB-Uu54_aAAAAd","timestamp":"2025-01-15T09:53:09.390Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:09.430Z"}
+{"level":"info","message":"User connected: dLbig84BPzVZpxyYAAAf","timestamp":"2025-01-15T09:53:12.543Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:12.597Z"}
+{"level":"info","message":"User connected: MboGjPRRzCh_XCKWAAAh","timestamp":"2025-01-15T09:53:14.438Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:14.474Z"}
+{"level":"info","message":"User connected: A2YEGAc2Nr9oybo6AAAj","timestamp":"2025-01-15T09:53:30.220Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:30.285Z"}
+{"level":"info","message":"User connected: Bzc_kW5KfTQ6EvsUAAAl","timestamp":"2025-01-15T09:53:35.462Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-01-15T09:53:35.499Z"}
+{"level":"info","message":"User disconnected: HlAxxaSD8MwlkKtRAAAT","timestamp":"2025-01-15T09:58:44.334Z"}
+{"level":"info","message":"User disconnected: WnJx5VoGiwBbJixmAAAZ","timestamp":"2025-01-15T09:58:44.343Z"}
+{"level":"info","message":"User disconnected: dLbig84BPzVZpxyYAAAf","timestamp":"2025-01-15T09:58:44.361Z"}
+{"level":"info","message":"User disconnected: A2YEGAc2Nr9oybo6AAAj","timestamp":"2025-01-15T09:58:44.362Z"}
+{"level":"info","message":"User disconnected: 2ecoGIt76aBv4LOWAAAV","timestamp":"2025-01-15T09:58:44.363Z"}
+{"level":"info","message":"User disconnected: TEr0g6YB-Uu54_aAAAAd","timestamp":"2025-01-15T09:58:44.364Z"}
+{"level":"info","message":"User disconnected: MboGjPRRzCh_XCKWAAAh","timestamp":"2025-01-15T09:58:44.364Z"}
+{"level":"info","message":"User disconnected: RR_dPYIDvdb4hDB2AAAR","timestamp":"2025-01-15T09:58:44.367Z"}
+{"level":"info","message":"User disconnected: Bzc_kW5KfTQ6EvsUAAAl","timestamp":"2025-01-15T09:58:44.368Z"}
+{"level":"info","message":"User disconnected: Ep77U054sNvNvwvtAAAX","timestamp":"2025-01-15T09:58:44.369Z"}
+{"level":"info","message":"User disconnected: rcpCN3iIVzh5mGEIAAAb","timestamp":"2025-01-15T09:58:44.369Z"}
+{"level":"info","message":"User disconnected: ccAEg8Vby6S_KoZ0AAAP","timestamp":"2025-01-15T09:58:44.372Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-15T09:06:45.629Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-15T09:06:45.693Z"}
+{"level":"info","message":"User connected: EK9cOTUrvppa6om5AAAB","timestamp":"2025-02-15T09:07:05.714Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-15T09:07:26.250Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-02-15T09:07:28.146Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-15T09:08:23.075Z"}
+{"level":"info","message":"User disconnected: EK9cOTUrvppa6om5AAAB","timestamp":"2025-02-15T09:09:58.265Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T13:13:35.131Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T13:13:35.175Z"}
+{"level":"info","message":"User connected: AFRD7wFpE8-Y3jiVAAAB","timestamp":"2025-02-16T13:13:52.887Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-16T13:15:29.595Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-16T13:22:53.604Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-02-16T13:22:55.145Z"}
+{"level":"info","message":"User disconnected: AFRD7wFpE8-Y3jiVAAAB","timestamp":"2025-02-16T13:30:57.626Z"}
+{"level":"info","message":"User connected: NJuAxvtjqGXwez9rAAAD","timestamp":"2025-02-16T13:30:57.943Z"}
+{"level":"info","message":"User disconnected: NJuAxvtjqGXwez9rAAAD","timestamp":"2025-02-16T13:30:59.533Z"}
+{"level":"info","message":"User connected: nLgyJq6ZWc2aKOBpAAAF","timestamp":"2025-02-16T13:31:00.047Z"}
+{"level":"info","message":"User disconnected: nLgyJq6ZWc2aKOBpAAAF","timestamp":"2025-02-16T13:34:26.346Z"}
+{"level":"info","message":"User connected: jaO8_TC1ah7tc7lfAAAH","timestamp":"2025-02-16T13:34:26.745Z"}
+{"level":"info","message":"User disconnected: jaO8_TC1ah7tc7lfAAAH","timestamp":"2025-02-16T13:34:27.140Z"}
+{"level":"info","message":"User connected: ZCLPSLVqcuLjZE8LAAAJ","timestamp":"2025-02-16T13:34:27.636Z"}
+{"level":"info","message":"User disconnected: ZCLPSLVqcuLjZE8LAAAJ","timestamp":"2025-02-16T13:34:32.243Z"}
+{"level":"info","message":"User connected: CVwmIZNWL3X37g03AAAL","timestamp":"2025-02-16T13:34:32.751Z"}
+{"level":"info","message":"User disconnected: CVwmIZNWL3X37g03AAAL","timestamp":"2025-02-16T13:34:45.451Z"}
+{"level":"info","message":"User connected: -f-wS9EU3PtEs24UAAAN","timestamp":"2025-02-16T13:34:45.889Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:48:51.147Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:48:51.208Z"}
+{"level":"info","message":"User connected: cSl8VeXshnWPiwlWAAAB","timestamp":"2025-02-16T14:48:52.033Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:48:54.762Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:48:54.828Z"}
+{"level":"info","message":"User connected: l50qRTE0bGcaOre5AAAB","timestamp":"2025-02-16T14:48:56.037Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:50:37.894Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:50:37.941Z"}
+{"level":"info","message":"User connected: bqfUeRewHIUXd2yAAAAB","timestamp":"2025-02-16T14:50:38.023Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:50:54.199Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:50:54.258Z"}
+{"level":"info","message":"User connected: h8447dnjjRQQxzCGAAAB","timestamp":"2025-02-16T14:50:55.050Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:51:21.204Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:51:21.245Z"}
+{"level":"info","message":"User connected: 8kg79tuXtIxrJgaKAAAB","timestamp":"2025-02-16T14:51:22.028Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:51:31.914Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:51:31.959Z"}
+{"level":"info","message":"User connected: qQrPAL5CKddCQIw3AAAB","timestamp":"2025-02-16T14:51:33.048Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:51:42.378Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:51:42.419Z"}
+{"level":"info","message":"User connected: 8_LlKyUPbvD9UhKhAAAB","timestamp":"2025-02-16T14:51:44.047Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:51:56.337Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:51:56.377Z"}
+{"level":"info","message":"User connected: KVcdIhdxg5-PelN1AAAB","timestamp":"2025-02-16T14:51:57.045Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:13.865Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:13.905Z"}
+{"level":"info","message":"User connected: X2vdVt_HBKPZj4BvAAAB","timestamp":"2025-02-16T14:52:15.047Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:22.468Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:22.510Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:24.296Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:24.337Z"}
+{"level":"info","message":"User connected: 2yDMLaqmu8eJZLa9AAAB","timestamp":"2025-02-16T14:52:26.024Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:27.449Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:27.500Z"}
+{"level":"info","message":"User connected: Dak8-D2SDGya2PB1AAAB","timestamp":"2025-02-16T14:52:28.045Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:47.090Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:47.131Z"}
+{"level":"info","message":"User connected: IKabUTnf3b3uoPh0AAAB","timestamp":"2025-02-16T14:52:48.044Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:50.684Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:50.724Z"}
+{"level":"info","message":"User connected: c8yG4iUO_J4w4UcvAAAB","timestamp":"2025-02-16T14:52:52.048Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:52:56.353Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:52:56.396Z"}
+{"level":"info","message":"User connected: N4AhzxerpdnbMm2gAAAB","timestamp":"2025-02-16T14:52:57.032Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:53:00.848Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:53:00.887Z"}
+{"level":"info","message":"User connected: o8wBu0c-iiAgUsJ3AAAB","timestamp":"2025-02-16T14:53:01.022Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:53:03.183Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:53:03.223Z"}
+{"level":"info","message":"User connected: gCDm0F0dMxwQeF9zAAAB","timestamp":"2025-02-16T14:53:04.046Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:53:09.767Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:53:09.809Z"}
+{"level":"info","message":"User connected: vuNbGqL3bXB65rm7AAAB","timestamp":"2025-02-16T14:53:11.046Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:53:16.345Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:53:16.384Z"}
+{"level":"info","message":"User connected: rEFTQBapLu6PwACnAAAB","timestamp":"2025-02-16T14:53:17.048Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:53:59.148Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:53:59.194Z"}
+{"level":"info","message":"User connected: siuYm4w3Mdjw_4-SAAAB","timestamp":"2025-02-16T14:54:01.044Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:54:50.526Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:54:50.578Z"}
+{"level":"info","message":"User connected: 119TdVAGMbO_M7qKAAAB","timestamp":"2025-02-16T14:54:52.026Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:54:53.463Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:54:53.505Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:54:54.526Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:54:54.582Z"}
+{"level":"info","message":"User connected: L4oRxT5nRgTonJ0VAAAB","timestamp":"2025-02-16T14:54:56.023Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:55:49.229Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:55:49.275Z"}
+{"level":"info","message":"User connected: FkDCZ_h-BdkPUXqqAAAB","timestamp":"2025-02-16T14:55:54.041Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:55:54.949Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:55:54.994Z"}
+{"level":"info","message":"User connected: XzAFvcjSNmW88fjDAAAB","timestamp":"2025-02-16T14:55:55.030Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:56:11.623Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:56:11.669Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:56:13.738Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:56:13.794Z"}
+{"level":"info","message":"User connected: g9mrd65gEqHXgfXQAAAB","timestamp":"2025-02-16T14:56:14.023Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:56:19.449Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:56:19.489Z"}
+{"level":"info","message":"User connected: BELTETEhM3G__Y-lAAAB","timestamp":"2025-02-16T14:56:20.048Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-16T14:56:52.801Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-16T14:56:52.840Z"}
+{"level":"info","message":"User connected: SeJOsY7BcjVQan54AAAB","timestamp":"2025-02-16T14:56:54.037Z"}
+{"level":"info","message":"User disconnected: SeJOsY7BcjVQan54AAAB","timestamp":"2025-02-16T23:43:17.606Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T04:58:12.744Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T04:58:12.796Z"}
+{"level":"info","message":"GET /api/v1/conversations/add - ::1 - 200 - undefined ","timestamp":"2025-02-17T05:01:37.676Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:32:21.480Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:32:21.524Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:32:23.329Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:32:23.375Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:34:03.563Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:34:03.627Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:34:04.812Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:34:04.866Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:34:12.480Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:34:12.534Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:34:31.332Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:34:31.379Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:34:34.649Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:34:34.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:36:21.899Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:36:21.954Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T05:36:23.844Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T05:36:23.899Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T06:05:39.233Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T06:05:39.279Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T06:09:07.938Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T06:09:07.988Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T08:48:05.323Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T08:48:05.428Z"}
+{"level":"info","message":"User connected: Q71efx3qZA2O4owoAAAB","timestamp":"2025-02-17T08:48:23.910Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-17T08:48:26.381Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-02-17T08:48:36.329Z"}
+{"level":"info","message":"User disconnected: Q71efx3qZA2O4owoAAAB","timestamp":"2025-02-17T08:58:08.736Z"}
+{"level":"info","message":"User connected: Kb3nX-dRak9syYcRAAAD","timestamp":"2025-02-17T08:58:09.267Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T08:59:55.001Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T08:59:55.061Z"}
+{"level":"info","message":"User connected: UveufmC1NCrD3BlCAAAB","timestamp":"2025-02-17T08:59:55.373Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T08:59:59.229Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T08:59:59.280Z"}
+{"level":"info","message":"User connected: yjAObCFBD80hGwEkAAAB","timestamp":"2025-02-17T08:59:59.632Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T09:00:03.110Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T09:00:03.163Z"}
+{"level":"info","message":"User connected: r8tN4XgXybYojEeGAAAB","timestamp":"2025-02-17T09:00:03.307Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T09:00:06.071Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T09:00:06.125Z"}
+{"level":"info","message":"User connected: IO5MBA32mxRVoe2uAAAB","timestamp":"2025-02-17T09:00:06.165Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T09:00:12.234Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T09:00:12.286Z"}
+{"level":"info","message":"User connected: YTyxXMeyXbArZCZIAAAB","timestamp":"2025-02-17T09:00:12.628Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-17T09:00:44.784Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-17T09:00:44.834Z"}
+{"level":"info","message":"User connected: WePd3hROC6igXm_PAAAB","timestamp":"2025-02-17T09:00:45.931Z"}
+{"level":"info","message":"User disconnected: WePd3hROC6igXm_PAAAB","timestamp":"2025-02-17T09:16:24.364Z"}
+{"level":"info","message":"User connected: ND7gexqv4syXX2a_AAAD","timestamp":"2025-02-17T09:16:24.746Z"}
+{"level":"info","message":"User disconnected: ND7gexqv4syXX2a_AAAD","timestamp":"2025-02-17T09:16:37.504Z"}
+{"level":"info","message":"User connected: infGAk_v589yQHpPAAAF","timestamp":"2025-02-17T09:16:37.875Z"}
+{"level":"info","message":"User disconnected: infGAk_v589yQHpPAAAF","timestamp":"2025-02-17T09:19:11.332Z"}
+{"level":"info","message":"User connected: ZYXJY6iDRxAibLRWAAAH","timestamp":"2025-02-17T09:19:11.717Z"}
+{"level":"info","message":"User disconnected: ZYXJY6iDRxAibLRWAAAH","timestamp":"2025-02-17T09:22:47.968Z"}
+{"level":"info","message":"User connected: 3A_EEnWP7AMrxljnAAAJ","timestamp":"2025-02-17T09:22:48.355Z"}
+{"level":"info","message":"User disconnected: 3A_EEnWP7AMrxljnAAAJ","timestamp":"2025-02-17T09:30:21.018Z"}
+{"level":"info","message":"User connected: PL6jox-iV9KSSN55AAAL","timestamp":"2025-02-17T09:30:21.423Z"}
+{"level":"info","message":"User disconnected: PL6jox-iV9KSSN55AAAL","timestamp":"2025-02-17T09:31:53.489Z"}
+{"level":"info","message":"User connected: hDGsX2qMeXpuqLceAAAN","timestamp":"2025-02-17T09:31:53.977Z"}
+{"level":"info","message":"User disconnected: hDGsX2qMeXpuqLceAAAN","timestamp":"2025-02-17T09:32:57.407Z"}
+{"level":"info","message":"User connected: 7RnRJueClPUdAJXKAAAP","timestamp":"2025-02-17T09:32:57.960Z"}
+{"level":"info","message":"User disconnected: 7RnRJueClPUdAJXKAAAP","timestamp":"2025-02-17T09:33:09.836Z"}
+{"level":"info","message":"User connected: X0AO3AhPHGLkHBq1AAAR","timestamp":"2025-02-17T09:33:10.341Z"}
+{"level":"info","message":"User disconnected: X0AO3AhPHGLkHBq1AAAR","timestamp":"2025-02-17T09:35:29.109Z"}
+{"level":"info","message":"User connected: h21wbhrJNGNNy3JnAAAT","timestamp":"2025-02-17T09:35:29.610Z"}
+{"level":"info","message":"User disconnected: h21wbhrJNGNNy3JnAAAT","timestamp":"2025-02-17T09:39:23.364Z"}
+{"level":"info","message":"User connected: 0nUvnOMpef8XaCuTAAAV","timestamp":"2025-02-17T09:39:23.863Z"}
+{"level":"info","message":"User disconnected: 0nUvnOMpef8XaCuTAAAV","timestamp":"2025-02-17T09:40:19.356Z"}
+{"level":"info","message":"User connected: l-L2EA7qwqIFZLIBAAAX","timestamp":"2025-02-17T09:40:19.887Z"}
+{"level":"info","message":"User disconnected: l-L2EA7qwqIFZLIBAAAX","timestamp":"2025-02-17T09:43:52.410Z"}
+{"level":"info","message":"User connected: 8NWzJYRXcLEkHWyQAAAZ","timestamp":"2025-02-17T09:43:52.793Z"}
+{"level":"info","message":"User disconnected: 8NWzJYRXcLEkHWyQAAAZ","timestamp":"2025-02-17T09:45:34.535Z"}
+{"level":"info","message":"User connected: us2RIIt4K5UKsXC3AAAb","timestamp":"2025-02-17T09:45:35.065Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-17T09:46:28.823Z"}
+{"level":"info","message":"User disconnected: us2RIIt4K5UKsXC3AAAb","timestamp":"2025-02-17T09:46:44.076Z"}
+{"level":"info","message":"User connected: st8A7DX7GXrNdLR1AAAd","timestamp":"2025-02-17T09:46:44.313Z"}
+{"level":"info","message":"User disconnected: st8A7DX7GXrNdLR1AAAd","timestamp":"2025-02-17T09:48:37.916Z"}
+{"level":"info","message":"User connected: 6Riv2v-2EI61UTdLAAAf","timestamp":"2025-02-17T09:48:40.991Z"}
+{"level":"info","message":"User disconnected: 6Riv2v-2EI61UTdLAAAf","timestamp":"2025-02-17T09:48:41.921Z"}
+{"level":"info","message":"User connected: RGfKYqOyIu8mWF6PAAAh","timestamp":"2025-02-17T09:48:42.476Z"}
+{"level":"info","message":"User disconnected: RGfKYqOyIu8mWF6PAAAh","timestamp":"2025-02-17T09:49:54.114Z"}
+{"level":"info","message":"User connected: -rhIxa_nc4wvFmLwAAAj","timestamp":"2025-02-17T09:49:54.650Z"}
+{"level":"info","message":"User disconnected: -rhIxa_nc4wvFmLwAAAj","timestamp":"2025-02-17T09:49:57.748Z"}
+{"level":"info","message":"User connected: CmGXnhhOGX4dodLdAAAl","timestamp":"2025-02-17T09:49:58.180Z"}
+{"level":"info","message":"User disconnected: CmGXnhhOGX4dodLdAAAl","timestamp":"2025-02-17T09:51:50.736Z"}
+{"level":"info","message":"User connected: BSkvyoz6no3NZ9V3AAAn","timestamp":"2025-02-17T09:51:51.231Z"}
+{"level":"info","message":"User disconnected: BSkvyoz6no3NZ9V3AAAn","timestamp":"2025-02-17T09:52:49.441Z"}
+{"level":"info","message":"User connected: IOdag2hKyiLUGl4EAAAp","timestamp":"2025-02-17T09:52:49.856Z"}
+{"level":"info","message":"User disconnected: IOdag2hKyiLUGl4EAAAp","timestamp":"2025-02-17T09:54:24.404Z"}
+{"level":"info","message":"User connected: Axqq-Q18rxQ6aJM1AAAr","timestamp":"2025-02-17T09:54:24.964Z"}
+{"level":"info","message":"User disconnected: Axqq-Q18rxQ6aJM1AAAr","timestamp":"2025-02-17T09:58:10.487Z"}
+{"level":"info","message":"User connected: nrzlZKKUCBGmvDS2AAAt","timestamp":"2025-02-17T09:58:10.925Z"}
+{"level":"info","message":"User disconnected: nrzlZKKUCBGmvDS2AAAt","timestamp":"2025-02-17T10:00:12.109Z"}
+{"level":"info","message":"User connected: 5NemIsZdcP8CrUgpAAAv","timestamp":"2025-02-17T10:00:12.618Z"}
+{"level":"info","message":"User disconnected: 5NemIsZdcP8CrUgpAAAv","timestamp":"2025-02-17T10:21:01.293Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-18T04:31:22.809Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-18T04:31:22.857Z"}
+{"level":"info","message":"User connected: xieJzswKiELRNnWVAAAB","timestamp":"2025-02-18T04:31:23.887Z"}
+{"level":"info","message":"User disconnected: xieJzswKiELRNnWVAAAB","timestamp":"2025-02-18T04:31:52.933Z"}
+{"level":"info","message":"User connected: dIRkhmgTxwx_uPXoAAAD","timestamp":"2025-02-18T04:31:53.472Z"}
+{"level":"info","message":"User disconnected: dIRkhmgTxwx_uPXoAAAD","timestamp":"2025-02-18T04:32:29.361Z"}
+{"level":"info","message":"User connected: hk7JMq7OmyvUmT1tAAAF","timestamp":"2025-02-18T04:32:29.775Z"}
+{"level":"info","message":"User disconnected: hk7JMq7OmyvUmT1tAAAF","timestamp":"2025-02-18T04:57:03.238Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-02-24T07:18:52.960Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-02-24T07:18:53.248Z"}
+{"level":"info","message":"User connected: X8x9QTDwp8neRVDQAAAB","timestamp":"2025-02-24T07:18:55.362Z"}
+{"level":"info","message":"User disconnected: X8x9QTDwp8neRVDQAAAB","timestamp":"2025-02-24T07:18:57.099Z"}
+{"level":"info","message":"User connected: hD7-RZSC01suXwBTAAAD","timestamp":"2025-02-24T07:18:57.230Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-02-24T07:22:04.410Z"}
+{"level":"info","message":"GET /api/v1/conversations/1/1 - ::1 - 200 - undefined ","timestamp":"2025-02-24T07:22:05.831Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-02-24T07:22:05.852Z"}
+{"level":"info","message":"User disconnected: hD7-RZSC01suXwBTAAAD","timestamp":"2025-02-24T07:27:34.004Z"}
+{"level":"info","message":"User connected: ha-CmnAoH_z7scELAAAF","timestamp":"2025-02-24T07:27:34.464Z"}
+{"level":"info","message":"User disconnected: ha-CmnAoH_z7scELAAAF","timestamp":"2025-02-24T07:32:50.949Z"}
+{"level":"info","message":"User connected: oIBJTR7B-IZGtlECAAAH","timestamp":"2025-02-24T07:32:51.367Z"}
+{"level":"info","message":"User connected: SHCcVuEjo89OOu16AAAJ","timestamp":"2025-02-24T08:05:55.427Z"}
+{"level":"info","message":"User connected: eBUaUn6YIAlTO-olAAAL","timestamp":"2025-02-24T08:06:26.512Z"}
+{"level":"info","message":"User connected: 1idKSR9vKPCE7OenAAAN","timestamp":"2025-02-24T08:06:26.685Z"}
+{"level":"info","message":"User connected: gL7RmzKaq6S6D0BxAAAP","timestamp":"2025-02-24T08:06:41.808Z"}
+{"level":"info","message":"User connected: I-wyBTHBxfeSrdziAAAR","timestamp":"2025-02-24T08:06:45.286Z"}
+{"level":"info","message":"User connected: 1L-7dRZZ13q1HE5CAAAT","timestamp":"2025-02-24T08:06:48.976Z"}
+{"level":"info","message":"User connected: YexlZIq-wThXj1NnAAAV","timestamp":"2025-02-24T08:06:50.513Z"}
+{"level":"info","message":"User connected: KNWROqtr3LAAgnIJAAAX","timestamp":"2025-02-24T08:07:10.234Z"}
+{"level":"info","message":"User connected: aagDWf3leVmA96KPAAAZ","timestamp":"2025-02-24T08:07:10.271Z"}
+{"level":"info","message":"User connected: 7-OpPYP-jmkV5RIAAAAb","timestamp":"2025-02-24T08:07:31.818Z"}
+{"level":"info","message":"User connected: RMeomZpItJiPJ5zYAAAd","timestamp":"2025-02-24T08:07:31.910Z"}
+{"level":"info","message":"User connected: Pp1wSJpfuPGYtkJcAAAf","timestamp":"2025-02-24T08:07:40.395Z"}
+{"level":"info","message":"User connected: LKExvupgZIlzXbC_AAAh","timestamp":"2025-02-24T08:17:59.711Z"}
+{"level":"info","message":"User disconnected: SHCcVuEjo89OOu16AAAJ","timestamp":"2025-02-24T08:18:06.525Z"}
+{"level":"info","message":"User disconnected: oIBJTR7B-IZGtlECAAAH","timestamp":"2025-02-24T08:18:06.527Z"}
+{"level":"info","message":"User disconnected: I-wyBTHBxfeSrdziAAAR","timestamp":"2025-02-24T08:18:06.527Z"}
+{"level":"info","message":"User disconnected: YexlZIq-wThXj1NnAAAV","timestamp":"2025-02-24T08:18:06.528Z"}
+{"level":"info","message":"User disconnected: eBUaUn6YIAlTO-olAAAL","timestamp":"2025-02-24T08:18:06.528Z"}
+{"level":"info","message":"User disconnected: aagDWf3leVmA96KPAAAZ","timestamp":"2025-02-24T08:18:06.528Z"}
+{"level":"info","message":"User disconnected: LKExvupgZIlzXbC_AAAh","timestamp":"2025-02-24T08:18:06.529Z"}
+{"level":"info","message":"User disconnected: 1idKSR9vKPCE7OenAAAN","timestamp":"2025-02-24T08:18:06.529Z"}
+{"level":"info","message":"User disconnected: Pp1wSJpfuPGYtkJcAAAf","timestamp":"2025-02-24T08:18:06.530Z"}
+{"level":"info","message":"User disconnected: KNWROqtr3LAAgnIJAAAX","timestamp":"2025-02-24T08:18:06.530Z"}
+{"level":"info","message":"User disconnected: 7-OpPYP-jmkV5RIAAAAb","timestamp":"2025-02-24T08:18:06.530Z"}
+{"level":"info","message":"User disconnected: 1L-7dRZZ13q1HE5CAAAT","timestamp":"2025-02-24T08:18:06.530Z"}
+{"level":"info","message":"User disconnected: gL7RmzKaq6S6D0BxAAAP","timestamp":"2025-02-24T08:18:06.531Z"}
+{"level":"info","message":"User disconnected: RMeomZpItJiPJ5zYAAAd","timestamp":"2025-02-24T08:18:06.531Z"}
+{"level":"info","message":"User connected: 0HlVuzhlZaZyP1W9AAAj","timestamp":"2025-02-24T08:18:06.912Z"}
+{"level":"info","message":"User disconnected: 0HlVuzhlZaZyP1W9AAAj","timestamp":"2025-02-24T08:18:26.730Z"}
+{"level":"info","message":"User connected: q3FAbGMuwHZ1aavMAAAl","timestamp":"2025-02-24T08:18:27.104Z"}
+{"level":"info","message":"User disconnected: q3FAbGMuwHZ1aavMAAAl","timestamp":"2025-02-24T08:24:42.391Z"}
+{"level":"info","message":"User connected: ePN6I1KRyZ6vEIAQAAAn","timestamp":"2025-02-24T08:24:42.898Z"}
+{"level":"info","message":"User disconnected: ePN6I1KRyZ6vEIAQAAAn","timestamp":"2025-02-24T08:24:48.350Z"}
+{"level":"info","message":"User connected: Iw5UcP89ViKHaL2SAAAp","timestamp":"2025-02-24T08:24:48.913Z"}
+{"level":"info","message":"User disconnected: Iw5UcP89ViKHaL2SAAAp","timestamp":"2025-02-24T08:26:04.861Z"}
+{"level":"info","message":"User connected: rMuUZmX-ra3saGkIAAAr","timestamp":"2025-02-24T08:26:05.376Z"}
+{"level":"info","message":"User disconnected: rMuUZmX-ra3saGkIAAAr","timestamp":"2025-02-24T08:26:12.786Z"}
+{"level":"info","message":"User connected: NEMx9Br4IqlpqR_UAAAt","timestamp":"2025-02-24T08:26:13.173Z"}
+{"level":"info","message":"User disconnected: NEMx9Br4IqlpqR_UAAAt","timestamp":"2025-02-24T08:28:20.090Z"}
+{"level":"info","message":"User connected: DkUe7Zuxbb4c286DAAAv","timestamp":"2025-02-24T08:28:20.593Z"}
+{"level":"info","message":"User disconnected: DkUe7Zuxbb4c286DAAAv","timestamp":"2025-02-24T09:34:37.236Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T07:39:02.470Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T07:39:02.739Z"}
+{"level":"info","message":"User connected: NgFlMvd500qekmLHAAAB","timestamp":"2025-05-21T07:40:24.848Z"}
+{"level":"info","message":"Login request: admin@example.com","timestamp":"2025-05-21T07:41:29.160Z"}
+{"level":"info","message":"Login request: admin@example.com","timestamp":"2025-05-21T07:42:36.563Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-05-21T07:43:36.503Z"}
+{"level":"info","message":"User disconnected: NgFlMvd500qekmLHAAAB","timestamp":"2025-05-21T07:55:17.983Z"}
+{"level":"info","message":"User connected: -KXDQSm26-3Zy5Q9AAAD","timestamp":"2025-05-21T07:55:18.207Z"}
+{"level":"info","message":"User disconnected: -KXDQSm26-3Zy5Q9AAAD","timestamp":"2025-05-21T07:55:28.176Z"}
+{"level":"info","message":"User connected: JvP2_DxkSqKG7agcAAAF","timestamp":"2025-05-21T07:55:28.256Z"}
+{"level":"info","message":"GET /api/v1/conversations/1/1 - ::1 - 200 - undefined ","timestamp":"2025-05-21T07:55:45.324Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-05-21T07:55:45.342Z"}
+{"level":"info","message":"User disconnected: JvP2_DxkSqKG7agcAAAF","timestamp":"2025-05-21T07:58:20.204Z"}
+{"level":"info","message":"User connected: sk4mbpuWiNYdsit3AAAH","timestamp":"2025-05-21T07:58:20.523Z"}
+{"level":"info","message":"Login request: johndoe@example.com","timestamp":"2025-05-21T07:58:41.013Z"}
+{"level":"info","message":"User disconnected: sk4mbpuWiNYdsit3AAAH","timestamp":"2025-05-21T07:59:00.915Z"}
+{"level":"info","message":"User connected: 0PLQgSPsyKfsyaiOAAAJ","timestamp":"2025-05-21T07:59:01.053Z"}
+{"level":"info","message":"User disconnected: 0PLQgSPsyKfsyaiOAAAJ","timestamp":"2025-05-21T08:01:07.954Z"}
+{"level":"info","message":"User connected: aFjtREYqyWEsMZG7AAAL","timestamp":"2025-05-21T08:01:08.038Z"}
+{"level":"info","message":"User disconnected: aFjtREYqyWEsMZG7AAAL","timestamp":"2025-05-21T08:01:10.119Z"}
+{"level":"info","message":"User connected: rLVzVYns2P2qocVUAAAN","timestamp":"2025-05-21T08:01:10.234Z"}
+{"level":"info","message":"GET /api/v1/conversations/1/1 - ::1 - 200 - undefined ","timestamp":"2025-05-21T08:01:11.589Z"}
+{"level":"info","message":"POST /api/v1/users/add - ::1 - 200 - undefined ","timestamp":"2025-05-21T08:01:11.621Z"}
+{"level":"info","message":"User connected: JnFeIfjo8kl54_oQAAAP","timestamp":"2025-05-21T08:10:09.178Z"}
+{"level":"info","message":"User connected: tyqOnJ0a2UpcbzrFAAAR","timestamp":"2025-05-21T08:10:09.314Z"}
+{"level":"info","message":"User disconnected: rLVzVYns2P2qocVUAAAN","timestamp":"2025-05-21T08:10:45.452Z"}
+{"level":"info","message":"User disconnected: tyqOnJ0a2UpcbzrFAAAR","timestamp":"2025-05-21T08:10:45.455Z"}
+{"level":"info","message":"User disconnected: JnFeIfjo8kl54_oQAAAP","timestamp":"2025-05-21T08:10:45.456Z"}
+{"level":"info","message":"User connected: VYDP6_pC-dlUUfc0AAAT","timestamp":"2025-05-21T08:10:45.824Z"}
+{"level":"info","message":"User disconnected: VYDP6_pC-dlUUfc0AAAT","timestamp":"2025-05-21T08:11:43.107Z"}
+{"level":"info","message":"User connected: N0qirrHvmn2Q3QIoAAAV","timestamp":"2025-05-21T08:11:43.448Z"}
+{"level":"info","message":"User disconnected: N0qirrHvmn2Q3QIoAAAV","timestamp":"2025-05-21T08:13:37.678Z"}
+{"level":"info","message":"User connected: QgMxlUJTA9G4JdmDAAAX","timestamp":"2025-05-21T08:13:55.127Z"}
+{"level":"info","message":"User connected: VVQKrXZTqe7JImj0AAAZ","timestamp":"2025-05-21T08:21:55.983Z"}
+{"level":"info","message":"User connected: o6ajTcL1kyw3c-U6AAAb","timestamp":"2025-05-21T08:22:05.628Z"}
+{"level":"info","message":"User connected: 458p14MEj3vzRFPHAAAd","timestamp":"2025-05-21T08:22:26.042Z"}
+{"level":"info","message":"User disconnected: QgMxlUJTA9G4JdmDAAAX","timestamp":"2025-05-21T08:31:28.842Z"}
+{"level":"info","message":"User disconnected: 458p14MEj3vzRFPHAAAd","timestamp":"2025-05-21T08:31:28.844Z"}
+{"level":"info","message":"User disconnected: o6ajTcL1kyw3c-U6AAAb","timestamp":"2025-05-21T08:31:28.845Z"}
+{"level":"info","message":"User disconnected: VVQKrXZTqe7JImj0AAAZ","timestamp":"2025-05-21T08:31:28.845Z"}
+{"level":"info","message":"User connected: jvIJaFS7AA_lzj2OAAAf","timestamp":"2025-05-21T08:31:29.171Z"}
+{"level":"info","message":"User disconnected: jvIJaFS7AA_lzj2OAAAf","timestamp":"2025-05-21T08:38:31.628Z"}
+{"level":"info","message":"User connected: 0YVYMKt0--TOLM76AAAh","timestamp":"2025-05-21T08:38:31.953Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:40:43.506Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:40:43.567Z"}
+{"level":"info","message":"User connected: ffO3bdPBF_UIjZU7AAAB","timestamp":"2025-05-21T08:40:46.627Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:40:52.304Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:40:52.354Z"}
+{"level":"info","message":"User connected: pM4IHEozcSJ2UMhXAAAB","timestamp":"2025-05-21T08:40:53.374Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:40:56.121Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:40:56.175Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:40:57.282Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:40:57.330Z"}
+{"level":"info","message":"User connected: a2RD86T9JUREm3gHAAAB","timestamp":"2025-05-21T08:40:58.935Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:46:39.568Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:46:39.625Z"}
+{"level":"info","message":"User connected: VVpA4CqzTCgMyqTBAAAB","timestamp":"2025-05-21T08:46:40.737Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:46:43.050Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:46:43.922Z"}
+{"level":"info","message":"User connected: eIzuXGIPPjCyt5mpAAAB","timestamp":"2025-05-21T08:46:44.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:05.033Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:05.084Z"}
+{"level":"info","message":"User connected: lbD-syoSSZWyY8eRAAAB","timestamp":"2025-05-21T08:47:05.681Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:21.485Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:21.525Z"}
+{"level":"info","message":"User connected: ztcbwuLANP5hBUB2AAAB","timestamp":"2025-05-21T08:47:22.681Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:23.445Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:23.489Z"}
+{"level":"info","message":"User connected: hDfbABTbybHZRQ_GAAAB","timestamp":"2025-05-21T08:47:23.714Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:25.783Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:25.827Z"}
+{"level":"info","message":"User connected: aTV7VoCel9xB2iXqAAAB","timestamp":"2025-05-21T08:47:26.677Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:27.439Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:27.484Z"}
+{"level":"info","message":"User connected: JjahJLVSpxrNe4lzAAAB","timestamp":"2025-05-21T08:47:28.685Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:31.319Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:31.371Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:32.236Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:32.291Z"}
+{"level":"info","message":"User connected: WO1eiJuI5PHmh_CaAAAB","timestamp":"2025-05-21T08:47:32.701Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:35.370Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:35.418Z"}
+{"level":"info","message":"User connected: xGBPRnDIHqZI0KDjAAAB","timestamp":"2025-05-21T08:47:36.707Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:39.775Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:39.826Z"}
+{"level":"info","message":"User connected: LTY0hU4VYSadIOkcAAAB","timestamp":"2025-05-21T08:47:40.717Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:47.490Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:47.532Z"}
+{"level":"info","message":"User connected: G20fMUjTEJ5IqQRDAAAB","timestamp":"2025-05-21T08:47:48.686Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:52.541Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:52.592Z"}
+{"level":"info","message":"User connected: WXBGYCBvwqLUK3HbAAAB","timestamp":"2025-05-21T08:47:53.709Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:47:56.779Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:47:56.826Z"}
+{"level":"info","message":"User connected: 0RK8FDCJLKPMUrybAAAB","timestamp":"2025-05-21T08:47:57.682Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:48:40.008Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:48:40.059Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:48:42.235Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:48:42.288Z"}
+{"level":"info","message":"User connected: U6ybDdDPELvBMA5pAAAB","timestamp":"2025-05-21T08:48:43.700Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T08:48:53.052Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T08:48:53.101Z"}
+{"level":"info","message":"User connected: kTA_mVTWws_4OgvCAAAB","timestamp":"2025-05-21T08:48:53.695Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:00:56.211Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:00:56.262Z"}
+{"level":"info","message":"User connected: lyusdwbTaHnOL57PAAAB","timestamp":"2025-05-21T09:00:56.680Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:07.264Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:07.330Z"}
+{"level":"info","message":"User connected: we-W31JDvX5xibGoAAAB","timestamp":"2025-05-21T09:01:09.709Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:16.383Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:16.439Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:19.890Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:19.940Z"}
+{"level":"info","message":"User connected: kJAWPCxRW50dearbAAAB","timestamp":"2025-05-21T09:01:20.717Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:40.080Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:40.131Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:43.850Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:43.919Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:45.314Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:45.378Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:47.782Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:47.832Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:01:50.086Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:01:50.144Z"}
+{"level":"info","message":"User connected: mDheGUJ_ivywBBMFAAAB","timestamp":"2025-05-21T09:01:52.733Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:04.962Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:05.005Z"}
+{"level":"info","message":"User connected: DYSFDblHBGB4sWHhAAAB","timestamp":"2025-05-21T09:02:05.701Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:09.084Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:09.152Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:10.242Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:10.287Z"}
+{"level":"info","message":"User connected: 2LYGGe88xohRGXP9AAAB","timestamp":"2025-05-21T09:02:12.705Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:15.779Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:15.824Z"}
+{"level":"info","message":"User connected: OVl-SZdZv_2ku9tSAAAB","timestamp":"2025-05-21T09:02:16.691Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:18.160Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:18.208Z"}
+{"level":"info","message":"User connected: aSpmV8iD8pkhTVAYAAAB","timestamp":"2025-05-21T09:02:19.704Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:21.763Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:21.819Z"}
+{"level":"info","message":"User connected: tkS_Zw1aU2zcMI5dAAAB","timestamp":"2025-05-21T09:02:22.706Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:32.914Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:32.967Z"}
+{"level":"info","message":"User connected: 0fNtuqBqVVuUBDb1AAAB","timestamp":"2025-05-21T09:02:33.692Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:36.229Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:36.292Z"}
+{"level":"info","message":"User connected: Yr42eVsgOOY7FDo3AAAB","timestamp":"2025-05-21T09:02:37.681Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:39.496Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:39.554Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:40.590Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:40.634Z"}
+{"level":"info","message":"User connected: vz7b3nij8ZAezzNRAAAB","timestamp":"2025-05-21T09:02:40.686Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:42.889Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:42.939Z"}
+{"level":"info","message":"User connected: u2zTnvNraxrdX3P6AAAB","timestamp":"2025-05-21T09:02:44.707Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:48.134Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:48.181Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:02:49.976Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:02:50.033Z"}
+{"level":"info","message":"User connected: Oaa56nqrToqliqr4AAAB","timestamp":"2025-05-21T09:02:51.680Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:01.516Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:01.566Z"}
+{"level":"info","message":"User connected: HB2Dn6s7UO1rcBOmAAAB","timestamp":"2025-05-21T09:03:02.686Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:08.337Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:08.387Z"}
+{"level":"info","message":"User connected: E7Iufj_QNjk4NVdcAAAB","timestamp":"2025-05-21T09:03:09.694Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:19.925Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:19.968Z"}
+{"level":"info","message":"User connected: 064ODjOJGf6uqDPLAAAB","timestamp":"2025-05-21T09:03:20.703Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:34.157Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:34.208Z"}
+{"level":"info","message":"User connected: oCTCwDlKIpPn-xJVAAAB","timestamp":"2025-05-21T09:03:35.705Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:38.243Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:38.296Z"}
+{"level":"info","message":"User connected: XubM6AVlQB4QEnDTAAAB","timestamp":"2025-05-21T09:03:38.705Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:40.605Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:40.675Z"}
+{"level":"info","message":"User connected: UN2gfNqQHVH-txK-AAAB","timestamp":"2025-05-21T09:03:41.681Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:43.390Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:43.440Z"}
+{"level":"info","message":"User connected: 2pb7VVEthO9gcT6jAAAB","timestamp":"2025-05-21T09:03:44.705Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:03:50.906Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:03:50.958Z"}
+{"level":"info","message":"User connected: Rby4J_hLs_LoQpn1AAAB","timestamp":"2025-05-21T09:03:51.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:04.529Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:04.586Z"}
+{"level":"info","message":"User connected: 299-zMhy2yf-f1zAAAAB","timestamp":"2025-05-21T09:06:05.691Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:08.242Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:08.296Z"}
+{"level":"info","message":"User connected: rbWsiYN82QjMeFiRAAAB","timestamp":"2025-05-21T09:06:09.737Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:11.028Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:11.077Z"}
+{"level":"info","message":"User connected: VXMxorxQY-ha3sWRAAAB","timestamp":"2025-05-21T09:06:12.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:20.694Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:20.745Z"}
+{"level":"info","message":"User connected: Ft_T6IiIpfJasGEFAAAB","timestamp":"2025-05-21T09:06:21.688Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:23.492Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:24.161Z"}
+{"level":"info","message":"User connected: r8gI6gfWlLkDVI1lAAAB","timestamp":"2025-05-21T09:06:24.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:48.141Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:48.206Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:49.599Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:49.651Z"}
+{"level":"info","message":"User connected: lnTAp8yXsL_-KD7_AAAB","timestamp":"2025-05-21T09:06:49.683Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:06:55.512Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:06:55.584Z"}
+{"level":"info","message":"User connected: Xi09FVnP8hIBAJWCAAAB","timestamp":"2025-05-21T09:06:56.702Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:07:06.734Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:07:06.781Z"}
+{"level":"info","message":"User connected: RiAdbDLAFm6LeFSkAAAB","timestamp":"2025-05-21T09:07:08.704Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:07:28.402Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:07:28.454Z"}
+{"level":"info","message":"User connected: dwlTWlEtEphG8FACAAAB","timestamp":"2025-05-21T09:07:29.690Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:08:17.775Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:08:17.823Z"}
+{"level":"info","message":"User connected: SEfzf5fm13MFPkqOAAAB","timestamp":"2025-05-21T09:08:18.680Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:08:20.147Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:08:20.199Z"}
+{"level":"info","message":"User connected: avblzRUJl8E7c06pAAAB","timestamp":"2025-05-21T09:08:21.701Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:12:16.813Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:12:16.868Z"}
+{"level":"info","message":"User connected: 79ZXwU4O4EVpB73DAAAB","timestamp":"2025-05-21T09:12:17.684Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:13:56.257Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:13:56.306Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:13:58.487Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:13:58.533Z"}
+{"level":"info","message":"User connected: JQoXgOlR9qIBbXuSAAAB","timestamp":"2025-05-21T09:14:00.705Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:14:30.131Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:14:30.188Z"}
+{"level":"info","message":"User connected: lN3cvnqLs9-cn8NTAAAB","timestamp":"2025-05-21T09:14:30.709Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2025-05-21T09:14:46.627Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-05-21T09:14:46.679Z"}
+{"level":"info","message":"User connected: 9dDqIDZ0txGFQXSyAAAB","timestamp":"2025-05-21T09:14:50.684Z"}
+{"level":"info","message":"User connected: chjj0dXdllo0VSA-AAAD","timestamp":"2025-05-21T09:34:07.130Z"}
+{"level":"info","message":"User disconnected: 9dDqIDZ0txGFQXSyAAAB","timestamp":"2025-05-21T09:34:07.152Z"}
+{"level":"info","message":"User disconnected: chjj0dXdllo0VSA-AAAD","timestamp":"2025-05-21T09:35:16.467Z"}
+{"level":"info","message":"User connected: acgr57cbJMrbA6FjAAAF","timestamp":"2025-05-21T09:35:17.051Z"}
+{"level":"info","message":"User connected: aR-r8yL6zCA35krdAAAH","timestamp":"2025-05-21T09:37:57.031Z"}
+{"level":"info","message":"User connected: c2Gox9YNBU6HsdT1AAAJ","timestamp":"2025-05-21T09:54:36.218Z"}
+{"level":"info","message":"User connected: 7ljCWkHtjNwBK2CRAAAL","timestamp":"2025-05-21T09:54:37.492Z"}
+{"level":"info","message":"User connected: 8vydCNTS9nS3XUk3AAAN","timestamp":"2025-05-21T09:58:54.477Z"}
+{"level":"info","message":"User connected: uitzks7uocg2FySOAAAP","timestamp":"2025-05-21T09:58:54.510Z"}
+{"level":"info","message":"User connected: SHiVpVFS0zDjE5QhAAAR","timestamp":"2025-05-21T09:58:56.090Z"}
+{"level":"info","message":"User connected: vS8CbJgtPvxvs65iAAAT","timestamp":"2025-05-21T09:58:59.526Z"}
+{"level":"info","message":"User connected: tcW51RRybTyVLH_zAAAV","timestamp":"2025-05-21T09:59:00.822Z"}
+{"level":"info","message":"User connected: UISxOSfjGJnWDLVqAAAX","timestamp":"2025-05-21T09:59:02.917Z"}
+{"level":"info","message":"User connected: UFJ-7bCTndmfZOliAAAZ","timestamp":"2025-05-21T09:59:07.491Z"}
+{"level":"info","message":"User disconnected: tcW51RRybTyVLH_zAAAV","timestamp":"2025-05-21T10:02:24.121Z"}
+{"level":"info","message":"User disconnected: vS8CbJgtPvxvs65iAAAT","timestamp":"2025-05-21T10:02:24.122Z"}
+{"level":"info","message":"User disconnected: SHiVpVFS0zDjE5QhAAAR","timestamp":"2025-05-21T10:02:24.123Z"}
+{"level":"info","message":"User disconnected: uitzks7uocg2FySOAAAP","timestamp":"2025-05-21T10:02:24.123Z"}
+{"level":"info","message":"User disconnected: 8vydCNTS9nS3XUk3AAAN","timestamp":"2025-05-21T10:02:24.124Z"}
+{"level":"info","message":"User disconnected: 7ljCWkHtjNwBK2CRAAAL","timestamp":"2025-05-21T10:02:24.124Z"}
+{"level":"info","message":"User disconnected: c2Gox9YNBU6HsdT1AAAJ","timestamp":"2025-05-21T10:02:24.125Z"}
+{"level":"info","message":"User disconnected: aR-r8yL6zCA35krdAAAH","timestamp":"2025-05-21T10:02:24.125Z"}
+{"level":"info","message":"User disconnected: acgr57cbJMrbA6FjAAAF","timestamp":"2025-05-21T10:02:24.126Z"}
+{"level":"info","message":"User disconnected: UFJ-7bCTndmfZOliAAAZ","timestamp":"2025-05-21T10:02:24.127Z"}
+{"level":"info","message":"User disconnected: UISxOSfjGJnWDLVqAAAX","timestamp":"2025-05-21T10:02:24.127Z"}
+{"level":"info","message":"User connected: 2K-zSGyehpvo4CAKAAAb","timestamp":"2025-05-21T10:02:24.576Z"}
+{"level":"info","message":"User disconnected: 2K-zSGyehpvo4CAKAAAb","timestamp":"2025-05-21T10:05:21.814Z"}
+{"level":"info","message":"User connected: 9yuWZgfXp-37MyJtAAAd","timestamp":"2025-05-21T10:05:22.270Z"}

@@ -1,9 +1,8 @@
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Home from '../pages/Home';
-import Friends from '../pages/Friends';
-import Chat from '../pages/Chat';
-// import User from './pages/User';
+
 import ProtectedRoute from '../routes/ProtectedRoute';
+
+import { Home, AddFriend, Portofolio, Friends, Chat } from '../pages';
 
 const AppRouter = () => {
     return (
@@ -17,6 +16,7 @@ const AppRouter = () => {
                                 <ul className="uk-nav uk-navbar-dropdown-nav">
                                     <li><Link to="/">Home</Link></li>
                                     <li><Link to="/friends">Friends</Link></li>
+                                    <li><Link to="/portofolio">Portofolio</Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -44,6 +44,8 @@ const AppRouter = () => {
                             </ProtectedRoute>
                         }
                     />
+                    <Route path="/addfriend" element={<AddFriend />} />
+                    <Route path="/portofolio" element={<Portofolio />} />
                 </Routes>
             </div>
 		</Router>

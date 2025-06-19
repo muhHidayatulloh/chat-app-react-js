@@ -38,6 +38,11 @@
   border: 1px solid black;
 }
 
+.uk-modal {
+  pointer-events: auto !important;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

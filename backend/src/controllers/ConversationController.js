@@ -1,12 +1,11 @@
-const { Conversations, ConversationMembers } = require('../models');
+const { Conversations, ConversationMembers, GroupConversations } = require('../models');
 const { sequelize } = require('../config/db');
 
 const addConversation = async (req, res) => {
-  const { conversation_type, created_by, member_id } = req.body;
-
+  const { conversation_type, created_by, user_id } = req.body;
   const created_at = new Date();
   const updated_at = new Date();
-
+  const groupConversation = {};
   const t = await sequelize.transaction();
 
   try {
@@ -17,26 +16,36 @@ const addConversation = async (req, res) => {
       updated_at
     }, { transaction: t });
 
+    if(conversation_type === 'group') {
+      const { group_name, group_descriptions, group_icon_url } = req.body;
+      groupConversation = await GroupConversations.create({
+        conversation_id: newConversation.id,
+        group_name,
+        group_descriptions,
+        group_icon_url
+      }, { transaction: t });
+    }
+
     const conversationMembers = await ConversationMembers.create(
     {
         conversation_id: newConversation.id,
-        user_id: member_id,
+        user_id: user_id,
         joined_at: created_at
     }, { transaction: t });
 
     await t.commit();
 
     console.log(newConversation, conversationMembers, 'test');
-    res.status(201).json({ conversation: newConversation, members: conversationMembers });
+    res.status(200).json({ conversation: newConversation, members: conversationMembers, groupConversation: groupConversation });
   } catch (error) {
     await t.rollback();
     console.error(error);
-    res.status(500).json({ message: 'Error creating conversation' });
+    res.status(500).json({ message: 'Error creating conversation', error: error.message });
   }
 };
 
-const getConversationsByUserIdAndMemberId = async (req, res) => {
-  const { user_id, member_id } = req.params;
+const getConversationsByUserId = async (req, res) => {
+  const { user_id } = req.params;
 
   try {
     const conversations = await Conversations.findOne({
@@ -44,8 +53,7 @@ const getConversationsByUserIdAndMemberId = async (req, res) => {
       include: [
         {
           model: ConversationMembers,
-          as: 'members',
-          where: { user_id: member_id }
+          as: 'members'
         }
       ]
     });
@@ -59,5 +67,5 @@ const getConversationsByUserIdAndMemberId = async (req, res) => {
 
 module.exports = {
   addConversation,
-  getConversationsByUserIdAndMemberId
+  getConversationsByUserId
 };

@@ -28,8 +28,10 @@ const Chat = () => {
 		const created_by = user.id;
 		const conversation_type = 'private';
 		const res = await requestPostApi( endPoint_user + 'add', {created_by, conversation_type, member_id});
-		setConversation(res.conversation);
-		setMembers(res.members);
+		if(res) {
+			setConversation(res.conversation);
+			setMembers(res.members);
+		}
 	};
 
 	const getConversationsByUserIdAndMemberId = async (user_id, member_id) => {
@@ -48,7 +50,7 @@ const Chat = () => {
 	};
 
 	const getMessage = () => {
-		console.log(conversation, 'get message');
+		// console.log(conversation, 'get message');
 	}
 	
 
@@ -147,6 +149,11 @@ const Chat = () => {
 						onChange={(e) => setMessage(e.target.value)}
 						placeholder="Ketik pesan..."
 						className="chat-input"
+						onKeyDown={(e) => {
+							if (e.key === 'Enter') {
+								handleSendMessage();
+							}
+						}}
 					/>
 					<button onClick={handleSendMessage} className='chat-button'>Kirim</button>
 				</div>
